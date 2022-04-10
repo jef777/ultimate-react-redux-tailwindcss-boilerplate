@@ -40,9 +40,6 @@
             "last 1 safari version"
         ]
     },
-    "lint-staged": {
-        "**/*": "prettier --write --ignore-unknown"
-    },
     "devDependencies": {
         "@babel/core": "^7.17.9",
         "@babel/plugin-proposal-class-properties": "^7.16.7",
